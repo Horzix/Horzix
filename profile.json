@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "login": "Horzix",
+  "seed": "#B36CFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "wave",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [
+    "streak",
+    "projects",
+    "stats",
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Horzix",
+    "subtitle": "Engineering & Open-Source Development.",
+    "typing": true,
+    "avatarShape": "flower",
+    "chips": [
+      {
+        "icon": "code",
+        "label": "Python • Luau • JavaScript"
+      },
+      {
+        "icon": "music_note",
+        "label": "Living in the Soundtracks"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and Designer"
+      },
+      {
+        "icon": "code",
+        "label": "Scripting and Game logic"
+      },
+      {
+        "icon": "school",
+        "label": "Student"
+      },
+      {
+        "icon": "colors",
+        "label": "Loves Purple And Blue"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Skills",
+    "groups": [
+      {
+        "title": "Languages",
+        "items": [
+          {
+            "icon": "brand:luau",
+            "label": "Luau"
+          },
+          {
+            "icon": "brand:lua",
+            "label": "Lua"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          }
+        ]
+      },
+      {
+        "title": "Software",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "code",
+            "label": "Visual Studio Code"
+          },
+          {
+            "icon": "brand:robloxstudio",
+            "label": "Roblox Studio"
+          },
+          {
+            "icon": "brand:blender",
+            "label": "Blender"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/Horzix"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/1012047586896642068"
+      },
+      {
+        "icon": "brand:steam",
+        "url": "https://steamcommunity.com/profiles/76561199556434782/"
+      },
+      {
+        "icon": "brand:spotify",
+        "url": "https://open.spotify.com/user/31mifn5bfm6mkazctbd4vii5pz3q"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
