@@ -1,5 +1,5 @@
 {
- "key": "3dfc2e80",
+ "key": "9700dd9f",
  "stars": 2,
  "contributions": 73,
  "repos": 4,
@@ -109,9 +109,13 @@
    {
     "c": 0,
     "day": 6,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 7,
+    "today": true
+   }
   ]
  ],
  "streak": {
